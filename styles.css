@@ -1,6 +1,18 @@
 * {
     font-family: 'Roboto', sans-serif; 
 }
+
+.navupdate{
+background-color: black;
+}
+
+.griot{
+    color: white;
+}
+
+.tag{
+    color: white;
+}
 .container{
     border: 2px solid grey;
     margin: 30px 30px;
@@ -16,16 +28,17 @@
 }
 .button{
     float: right;
-    
 }
 
+.read{
+    background-color: orange;
+    color: white;
+}
 .content2{
     text-align: left;
 }
 .button2{
     float: right;
-    background-color: orange;
-    color: white;
 }
 
 .content3{
@@ -34,8 +47,6 @@
 
 .button3{
     float: right;
-    background-color: orange;
-    color: white;
 }
 
 .content4{
@@ -44,6 +55,4 @@
 
 .button4{
     float: right;
-    background-color: orange;
-    color: white;
 }
