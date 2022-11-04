@@ -16,7 +16,6 @@ background-color: black;
 .container{
     border: 2px solid grey;
     margin: 30px 30px;
-    
 }
 .April2020{
     background-color: lightgray;
@@ -24,7 +23,7 @@ background-color: black;
 }
 
 .content{
-    text-align: left;
+    text-align: center;
 }
 .button{
     float: right;
@@ -34,23 +33,13 @@ background-color: black;
     background-color: orange;
     color: white;
 }
-.content2{
-    text-align: left;
-}
+
 .button2{
     float: right;
 }
 
-.content3{
-    text-align: left;
-}
-
 .button3{
     float: right;
-}
-
-.content4{
-    text-align: left;
 }
 
 .button4{
